@@ -1,4 +1,5 @@
-// @ts-nocheck
+import React from "react";
+
 interface IProps {
   children: JSX.Element;
   head: JSX.Element;
