@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "custom design system with components for react and svelte",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cuvar/design-system.git"
