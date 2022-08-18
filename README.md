@@ -1,3 +1,3 @@
 # design-system
 
-A collection of often used frontend components
+A typesafe collection of often used components for React and Svelte (coming soon). 
