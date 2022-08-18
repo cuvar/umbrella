@@ -1,5 +1,5 @@
+// @ts-nocheck
 import Link from "next/link";
-
 interface IProps {
   href: string;
   title: string;
