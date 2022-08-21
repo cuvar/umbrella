@@ -26,9 +26,9 @@
   "author": "cuvar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cuvar/design-system/issues"
+    "url": "https://github.com/cuvar/umbrella/issues"
   },
-  "homepage": "https://github.com/cuvar/design-system#readme",
+  "homepage": "https://github.com/cuvar/umbrella#readme",
   "peerDependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.3"
