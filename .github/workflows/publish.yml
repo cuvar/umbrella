@@ -1,9 +1,11 @@
 name: Publish npm package
+
 on:
-  push: [stable]
+  push:
+    branches: [stable]
 
 jobs:
-  publish:
+  Publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
