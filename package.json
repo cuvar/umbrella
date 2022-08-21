@@ -1,12 +1,12 @@
 {
-  "name": "umbrella",
+  "name": "umbrella-design",
   "version": "0.0.1",
   "description": "custom design system with components for react",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cuvar/umbrella.git"
+    "url": "git+https://github.com/cuvar/umbrella-design.git"
   },
   "scripts": {
     "build-pkg": "rollup -c",
@@ -26,9 +26,9 @@
   "author": "cuvar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cuvar/umbrella/issues"
+    "url": "https://github.com/cuvar/umbrella-design/issues"
   },
-  "homepage": "https://github.com/cuvar/umbrella#readme",
+  "homepage": "https://github.com/cuvar/umbrella-design#readme",
   "peerDependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.3"
