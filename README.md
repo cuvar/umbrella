@@ -17,14 +17,14 @@ You can use other package managers like yarn as well. A list of all available co
 ### React
 Some of the react components use elements of Nextjs. a (njs) marks them.
 
-- [Footer](./tree/main/src/Footer)
-- [Heading](./tree/main/src/Heading)
-- [Image](./tree/main/src/Image) (njs)
-- [Input](./tree/main/src/Input)
-- [Link](./tree/main/src/Link) (njs)
-- [Navbar](./tree/main/src/Navbar)
-- [SiteWrapper](./tree/main/src/SiteWrapper/)
-- [TextArea](./tree/main/src/TextArea/)
+- [Footer](./src/Footer)
+- [Heading](./src/Heading)
+- [Image](./src/Image) (njs)
+- [Input](./src/Input)
+- [Link](./src/Link) (njs)
+- [Navbar](./src/Navbar)
+- [SiteWrapper](.//src/SiteWrapper/)
+- [TextArea](./src/TextArea/)
 
 ### Svelte
 As of today, there are no components for Svelte. If you want to contribute, feel free to open a PR.
