@@ -1,12 +1,12 @@
 {
   "name": "umbrella",
   "version": "0.0.1",
-  "description": "custom design system with components for react and svelte",
+  "description": "custom design system with components for react",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cuvar/design-system.git"
+    "url": "git+https://github.com/cuvar/umbrella.git"
   },
   "scripts": {
     "build-pkg": "rollup -c",
