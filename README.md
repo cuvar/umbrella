@@ -15,7 +15,7 @@ You can use other package managers like yarn as well. A list of all available co
 ## Components
 
 ### React
-Some of the react components use elements of Nextjs. a (njs) marks them.
+Some of the react components use elements of Nextjs. A (njs) marks them.
 
 - [Footer](./src/Footer)
 - [Heading](./src/Heading)
