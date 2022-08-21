@@ -1,0 +1,48 @@
+{
+  "name": "design-system",
+  "version": "0.0.1",
+  "description": "custom design system with components for react and svelte",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuvar/design-system.git"
+  },
+  "scripts": {
+    "build-pkg": "rollup -c",
+    "watch-pkg": "rollup -c -w"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "svelte",
+    "design",
+    "system",
+    "web",
+    "components"
+  ],
+  "author": "cuvar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuvar/design-system/issues"
+  },
+  "homepage": "https://github.com/cuvar/design-system#readme",
+  "peerDependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.2",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^2.78.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-typescript2": "^0.32.1"
+  }
+}
