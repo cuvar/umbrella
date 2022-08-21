@@ -1,5 +1,5 @@
 {
-  "name": "design-system",
+  "name": "umbrella",
   "version": "0.0.1",
   "description": "custom design system with components for react and svelte",
   "main": "dist/index.js",
