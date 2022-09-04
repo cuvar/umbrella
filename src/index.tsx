@@ -7,13 +7,4 @@ import Navbar from "./Navbar/index";
 import SiteWrapper from "./SiteWrapper/index";
 import TextArea from "./TextArea/index";
 
-export default {
-  Footer,
-  Heading,
-  Image,
-  Input,
-  Link,
-  Navbar,
-  SiteWrapper,
-  TextArea,
-};
+export { Footer, Heading, Image, Input, Link, Navbar, SiteWrapper, TextArea };
