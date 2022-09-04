@@ -30,8 +30,8 @@
   },
   "homepage": "https://github.com/cuvar/umbrella-design#readme",
   "peerDependencies": {
-    "react": "^16.6.1",
-    "react-dom": "^16.6.3"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.2",
