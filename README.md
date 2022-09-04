@@ -1,3 +1,5 @@
+⚠️ This is work in progress! ⚠️ 
+
 # umbrella
 
 A typesafe collection of often used components for React, Nextjs and Svelte (coming soon). Further version will also focus on improving accessibility.
